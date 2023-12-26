@@ -28,10 +28,6 @@ Welcome to my Python practice repository! This collection includes Python script
 8. **Basic Calculator**
    - Performs basic arithmetic.
 
-## Usage
-
-Explore and run Python scripts to learn different concepts and challenges.
-
 ## How to Run
 
 1. **Clone the Repository:**
