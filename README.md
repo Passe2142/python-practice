@@ -37,16 +37,15 @@ Explore and run Python scripts to learn different concepts and challenges.
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Passe2142/python-practice
+   
 Navigate to the Repository Directory:
 
-bash
-
+ ```bash
 cd python-practice
 
 Run Python Scripts:
 
-bash
-
+ ```bash
     python hangman.py
 
 
