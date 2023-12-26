@@ -31,12 +31,12 @@ Welcome to my Python practice repository! This collection includes Python script
 ## How to Run
 
 1. **Clone the Repository:**
-   ```bash
+```bash
    git clone https://github.com/Passe2142/python-practice
-   
+```   
 2. **Navigate to the Repository Directory:**
 
- ```bash
+```bash
    cd python-practice
 ```
 
