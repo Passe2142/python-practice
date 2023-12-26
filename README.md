@@ -41,7 +41,8 @@ Explore and run Python scripts to learn different concepts and challenges.
 Navigate to the Repository Directory:
 
  ```bash
-cd python-practice
+   cd python-practice
+
 
 Run Python Scripts:
 
